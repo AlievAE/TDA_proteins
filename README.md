@@ -1,4 +1,6 @@
-# ml_proj
+# Part of the Final Project of the ML2025 course.
+It includes scpirt to get Persistence Image from barcodes, further vectorization via pre-trained ImagenetV3 and solving downstream multilabel classification problem with classifc ML methods (KNN, SVC, RF, LogReg) and methods from pyboost library.
+
 ## Data sources
 source for official code (private):
 https://github.com/ipmaria/ml2025_per_proteins
